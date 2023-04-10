@@ -15,9 +15,7 @@
 
 - ⚡ Fun fact **I'm learning how to rock climb and ice skate!**
 
-- **I'm always looking for new oppurtunities so please reach out!**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me - I'm always looking for new oppurtunities!:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaryaman-bhute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryaman-bhute" height="30" width="40" /></a>
 <a href="https://instagram.com/aaryaman_bhute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaryaman_bhute" height="30" width="40" /></a>
