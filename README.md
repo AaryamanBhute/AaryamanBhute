@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaryaman</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AaryamanBhute](https://github.com/AaryamanBhute)
+- 👨‍💻 All of my projects are available at [https://www.aaryamanbhute.com/](https://www.aaryamanbhute.com/#projectsmarker)
 
 - 📫 How to reach me **aryamanbhute@gmail.com**
 
