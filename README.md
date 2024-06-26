@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryaman</h1>
-<h3 align="center">A passionate Software Engineer and Student at UCLA</h3>
-- 🌱 I’m currently learning **OpenCV2, MediaPipe, Numpy, and Rust**
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaryamanBhute](https://github.com/AaryamanBhute)
 
