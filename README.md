@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaryaman</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.aaryamanbhute.com/](https://www.aaryamanbhute.com/#projectsmarker)
+- 👨‍💻 All of my projects and experiences are available at [https://www.aaryamanbhute.com/](https://www.aaryamanbhute.com/#projectsmarker)
 
-- 📫 How to reach me **aryamanbhute@gmail.com**
-
-- 📄 Know about my experiences [https://www.aaryamanbhute.com/](https://www.aaryamanbhute.com/)
+- 📫 You can reach me at: **aryamanbhute@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
