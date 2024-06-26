@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aaryaman</h1>
 <h3 align="center">A passionate Software Engineer and Student at UCLA</h3>
-
-- 🔭 I’m currently working on [Hand-Interpreter](https://github.com/AaryamanBhute/HandInterpreter)
-
 - 🌱 I’m currently learning **OpenCV2, MediaPipe, Numpy, and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaryamanBhute](https://github.com/AaryamanBhute)
 
-- 💬 Ask me about **Django, Vue.js, and SpringBoot**
-
 - 📫 How to reach me **aryamanbhute@gmail.com**
 
 - 📄 Know about my experiences [https://www.aaryamanbhute.com/](https://www.aaryamanbhute.com/)
-
-- ⚡ Fun fact **I'm learning how to rock climb and ice skate!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
